@@ -1,0 +1,8 @@
+{
+  "projectName": "steak-project",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "ef1386cc"
+}
